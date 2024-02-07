@@ -20,6 +20,11 @@ public class Unlock : MonoBehaviour
             unCount++;
         }
 
+        //else
+        //{
+        //    Debug.Log("Wrong Key");
+        //}
+
     }
 
     private void Update()
