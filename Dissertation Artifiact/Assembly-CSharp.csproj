@@ -60,9 +60,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Unlock.cs" />
     <Compile Include="Assets\Scripts\Movement_2Way.cs" />
-    <Compile Include="Assets\Puzzle_Start.cs" />
     <Compile Include="Assets\Scripts\Drag_and_Drop.cs" />
     <Compile Include="Assets\Scripts\Movement 8_Way.cs" />
+    <Compile Include="Assets\Scripts\Puzzle_Start.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
