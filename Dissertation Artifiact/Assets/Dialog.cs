@@ -1,17 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.U2D.Animation;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class Dialog : MonoBehaviour
 {
-    
     public GameObject dialogBox;
-    public Text dialogText;
+    public TMP_Text dialogText; // Use TMP_Text instead of Text
 
     public void ShowDialog(string text)
     {
-        text = "Hello";
         dialogText.text = text;
         dialogBox.SetActive(true);
     }
