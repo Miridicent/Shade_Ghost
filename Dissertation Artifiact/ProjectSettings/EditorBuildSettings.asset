@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Grave_Hub.unity
     guid: 1563c03fb4469fe4199bb460cd1a4bc6
+  - enabled: 1
+    path: Assets/Scenes/Side_1.unity
+    guid: 199db0fd78b1f6b42a7ac9b0b24450b9
+  - enabled: 1
+    path: Assets/Scenes/Side_2.unity
+    guid: b3ae22792731b6a478de5a063e007c14
+  - enabled: 1
+    path: Assets/Scenes/Side_3.unity
+    guid: 6af6a73cfffb3cc4ab61263d6d35a724
   m_configObjects: {}
