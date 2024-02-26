@@ -376,7 +376,10 @@
 "Assets/Scripts/Drag_and_Drop.cs"
 "Assets/Scripts/Movement 8_Way.cs"
 "Assets/Scripts/Movement_2Way.cs"
+"Assets/Scripts/Puzzle_Complete.cs"
 "Assets/Scripts/Puzzle_Start.cs"
+"Assets/Scripts/Side1_Enter.cs"
+"Assets/Scripts/TextShow.cs"
 "Assets/Scripts/Unlock.cs"
 -langversion:9.0
 

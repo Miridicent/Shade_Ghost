@@ -59,8 +59,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Unlock.cs" />
+    <Compile Include="Assets\Scripts\Side1_Enter.cs" />
     <Compile Include="Assets\Scripts\Movement_2Way.cs" />
     <Compile Include="Assets\Scripts\Drag_and_Drop.cs" />
+    <Compile Include="Assets\Scripts\TextShow.cs" />
+    <Compile Include="Assets\Scripts\Puzzle_Complete.cs" />
     <Compile Include="Assets\Scripts\Movement 8_Way.cs" />
     <Compile Include="Assets\Scripts\Dialog_Scripts\Grave_Dialog.cs" />
     <Compile Include="Assets\Scripts\Puzzle_Start.cs" />
