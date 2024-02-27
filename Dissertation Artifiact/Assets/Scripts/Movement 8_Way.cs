@@ -5,8 +5,11 @@ using UnityEngine;
 public class Movement8_Way : MonoBehaviour
 {
 
+    //Movement speed of the player
     public float movSpeed;
     float speedX, speedY;
+
+    //Calls Rigidbody and the Sprite Renderer
     Rigidbody2D rb;
     private SpriteRenderer _sprite;
 
@@ -20,10 +23,12 @@ public class Movement8_Way : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Does the same as the 2_Way movemnt script but also adds up and down (W, s and the arrows)
         speedX = Input.GetAxisRaw("Horizontal") * movSpeed;
         speedY = Input.GetAxisRaw("Vertical") * movSpeed;
         rb.velocity = new Vector3(speedX, speedY);
-
+        
+        // Flips the sprite depending on the direction being moved 
         if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyUp(KeyCode.A))
         {
             _sprite.flipX = true;
