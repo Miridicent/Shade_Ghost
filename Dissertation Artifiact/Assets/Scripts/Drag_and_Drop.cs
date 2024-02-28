@@ -11,9 +11,10 @@ public class Drag_and_Drop : MonoBehaviour
     // the game object clicked on will equal selectedObject 
     public GameObject selectedObject;
     Vector3 offset;
+    private Rigidbody2D rb;
     void Start()
     {
-        
+        rb = selectedObject.GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -40,7 +41,19 @@ public class Drag_and_Drop : MonoBehaviour
         // places object where the mouse lets go of it
         if (selectedObject)
         {
-            selectedObject.transform.position = mousePosition + offset;
+           // selectedObject.transform.position = mousePosition + offset;
+            Vector3 desiredPosition = mousePosition + offset;
+
+            RaycastHit2D hit = Physics2D.Linecast(selectedObject.transform.position, desiredPosition);
+
+            // If there is an obstacle, adjust the desired position
+            if (hit.collider && hit.collider.gameObject != selectedObject)
+            {
+                desiredPosition = hit.point - (hit.normal * 0.5f); // Adjust position slightly away from obstacle
+            }
+
+            // Move the object to the adjusted desired position
+            rb.MovePosition(desiredPosition);
         }
     }
 }

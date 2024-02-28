@@ -29,7 +29,7 @@ public class Puzzle_Complete : MonoBehaviour
             complete = false;
         }
 
-        if (complete && Input.GetKeyUp("Return"))
+        if (complete && Input.GetKeyUp(KeyCode.Return))
         {
             SceneManager.LoadScene("Grave_Hub");
         }

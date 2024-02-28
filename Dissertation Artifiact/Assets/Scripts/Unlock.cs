@@ -7,19 +7,18 @@ public class Unlock : MonoBehaviour
     public string targetTag = "";
     public GameObject targetGameObject;
     public int unCount = 0;
+    private bool isInRange;
     
 
    
     private void OnTriggerStay2D(Collider2D other)
     {
-        if (other.CompareTag(targetTag) && Input.GetMouseButtonUp(0))
+        if (other.CompareTag(targetTag))
         {
             // Perform actions when the specified object enters the trigger
             Debug.Log("Trigger entered by object with tag: " + targetTag);
-            targetGameObject.SetActive(false);
-            unCount++;
+            isInRange = true;
         }
-
         //else
         //{
         //    Debug.Log("Wrong Key");
@@ -29,6 +28,11 @@ public class Unlock : MonoBehaviour
 
     private void Update()
     {
-        
+        if (isInRange && Input.GetMouseButtonUp(0))
+        {
+            targetGameObject.SetActive(false);
+            unCount++;
+        }
     }
+    
 }

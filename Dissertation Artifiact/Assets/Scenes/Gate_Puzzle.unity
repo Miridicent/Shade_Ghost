@@ -437,7 +437,7 @@ GameObject:
   - component: {fileID: 379541585}
   - component: {fileID: 379541584}
   m_Layer: 0
-  m_Name: Unlock_control
+  m_Name: Drag_and_Drop Control
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
