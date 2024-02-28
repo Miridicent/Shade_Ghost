@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1468
     height: 765
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 264
     height: 437
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -432,22 +432,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity\Shade_Ghost\Dissertation Artifiact
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 22610000
-    m_LastClickedID: 24866
+    m_SelectedIDs: 20610000
+    m_LastClickedID: 24864
     m_ExpandedIDs: 000000000861000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -618,7 +618,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8a92fffffae2ffff62e3fffffce3ffffb8e5ffff0ee6ffff88f2fffff2f2ffff5ef8ffff1afbffff
+      m_ExpandedIDs: 8cd2ffff8ad3ffff76f9ffff78f9ffff1afbffff70610000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -940,9 +940,9 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 0
-      snapOffset: {x: 48, y: 48}
+      snapOffset: {x: -134, y: -43}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapCorner: 3
       id: Scene View/Open Tile Palette
       index: 0
       layout: 4
@@ -40934,9 +40934,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -22.9811, y: 0.63007647, z: -1.0019592}
+    m_Target: {x: 79.296616, y: 3.9223642, z: -1.1608547}
     speed: 2
-    m_Value: {x: -22.613647, y: 0.60357744, z: -0.9985143}
+    m_Value: {x: 79.296616, y: 3.9223642, z: -1.1608547}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -40986,9 +40986,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 7.999762
+    m_Target: 16.615337
     speed: 2
-    m_Value: 7.655275
+    m_Value: 16.615337
   m_Ortho:
     m_Target: 1
     speed: 2
