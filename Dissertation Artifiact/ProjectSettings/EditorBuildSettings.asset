@@ -23,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Side_3.unity
     guid: 6af6a73cfffb3cc4ab61263d6d35a724
+  - enabled: 1
+    path: Assets/Scenes/Latch_Puzzle.unity
+    guid: 991a7a93cbcb93f4f849c4a326f6eaf8
+  - enabled: 1
+    path: Assets/Scenes/Panel_Puzzle.unity
+    guid: e017b5444a3c3ef499807a83adf7db92
   m_configObjects: {}

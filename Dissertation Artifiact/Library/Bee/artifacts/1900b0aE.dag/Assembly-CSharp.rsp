@@ -376,6 +376,7 @@
 "Assets/Scripts/Dialog_Scripts/DialogueTrigger.cs"
 "Assets/Scripts/Dialog_Scripts/Grave_Dialog.cs"
 "Assets/Scripts/Drag_and_Drop.cs"
+"Assets/Scripts/Drag_and_Drop_key.cs"
 "Assets/Scripts/Movement 8_Way.cs"
 "Assets/Scripts/Movement_2Way.cs"
 "Assets/Scripts/Puzzle_Complete.cs"
