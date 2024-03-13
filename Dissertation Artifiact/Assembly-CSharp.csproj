@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\Movement_2Way.cs" />
     <Compile Include="Assets\FollowCamera.cs" />
     <Compile Include="Assets\Scripts\Drag_and_Drop.cs" />
+    <Compile Include="Assets\Collect.cs" />
     <Compile Include="Assets\Scripts\TextShow.cs" />
     <Compile Include="Assets\Scripts\Drag_and_Drop_key.cs" />
     <Compile Include="Assets\Scripts\Puzzle_Complete.cs" />

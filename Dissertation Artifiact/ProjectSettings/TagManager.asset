@@ -7,6 +7,8 @@ TagManager:
   - Key_Blue
   - Key_Green
   - Key_Red
+  - Key_Frag
+  - Gate
   layers:
   - Default
   - TransparentFX
