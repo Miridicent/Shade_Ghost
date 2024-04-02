@@ -12,6 +12,8 @@ public class Drag_and_Drop : MonoBehaviour
     public GameObject selectedObject;
     Vector3 offset;
     private Rigidbody2D rb;
+    private bool isDragging = false;
+
     void Start()
     {
         rb = selectedObject.GetComponent<Rigidbody2D>();
@@ -31,15 +33,17 @@ public class Drag_and_Drop : MonoBehaviour
             {
                 selectedObject = targetObject.transform.gameObject;
                 offset = selectedObject.transform.position - mousePosition;
+                isDragging = true;
             }
         }
         // drops object 
         if (Input.GetMouseButtonUp(0) && selectedObject)
         {
             selectedObject = null;
+            isDragging = false;
         }
         // places object where the mouse lets go of it
-        if (selectedObject)
+        if (isDragging && selectedObject)
         {
            // selectedObject.transform.position = mousePosition + offset;
             Vector3 desiredPosition = mousePosition + offset;

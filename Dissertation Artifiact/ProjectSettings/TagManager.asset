@@ -9,6 +9,7 @@ TagManager:
   - Key_Red
   - Key_Frag
   - Gate
+  - Spike
   layers:
   - Default
   - TransparentFX
