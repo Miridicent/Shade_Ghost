@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Panel_Puzzle.unity
     guid: e017b5444a3c3ef499807a83adf7db92
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 5d323e022722996498df548b1d704389
   m_configObjects: {}

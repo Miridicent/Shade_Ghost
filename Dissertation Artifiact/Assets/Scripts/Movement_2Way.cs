@@ -1,7 +1,7 @@
 using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Tilemaps;
+//using UnityEditor.Tilemaps;
 using UnityEngine;
 
 public class Movement_2Way : MonoBehaviour
