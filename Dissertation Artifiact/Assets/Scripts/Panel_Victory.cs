@@ -31,7 +31,7 @@ public class Panel_Victory : MonoBehaviour
 
         if (complete && Input.GetKeyUp(KeyCode.Return))
         {
-            SceneManager.LoadScene("Side_3");
+            SceneManager.LoadScene("Side_2");
         }
     }
 }
