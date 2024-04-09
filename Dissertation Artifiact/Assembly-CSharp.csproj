@@ -59,16 +59,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Unlock.cs" />
+    <Compile Include="Assets\Scripts\Reset.cs" />
     <Compile Include="Assets\Scripts\Side1_Enter.cs" />
     <Compile Include="Assets\Scripts\Movement_2Way.cs" />
-    <Compile Include="Assets\FollowCamera.cs" />
+    <Compile Include="Assets\Scripts\Switch.cs" />
+    <Compile Include="Assets\Scripts\FollowCamera.cs" />
     <Compile Include="Assets\Scripts\Drag_and_Drop.cs" />
-    <Compile Include="Assets\Collect.cs" />
     <Compile Include="Assets\Scripts\TextShow.cs" />
+    <Compile Include="Assets\Scripts\Switch_comp.cs" />
+    <Compile Include="Assets\Scripts\Mouse_Start.cs" />
     <Compile Include="Assets\Scripts\Drag_and_Drop_key.cs" />
+    <Compile Include="Assets\Scripts\POI.cs" />
     <Compile Include="Assets\Scripts\Puzzle_Complete.cs" />
+    <Compile Include="Assets\Scripts\Panel_Victory.cs" />
     <Compile Include="Assets\Scripts\Movement 8_Way.cs" />
     <Compile Include="Assets\Scripts\Dialog_Scripts\DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Collect.cs" />
     <Compile Include="Assets\Scripts\Dialog_Scripts\Grave_Dialog.cs" />
     <Compile Include="Assets\Scripts\Puzzle_Start.cs" />
   </ItemGroup>
