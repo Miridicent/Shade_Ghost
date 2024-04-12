@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Unlock.cs" />
+    <Compile Include="Assets\Scripts\SceneStart.cs" />
     <Compile Include="Assets\Scripts\Reset.cs" />
     <Compile Include="Assets\Scripts\Side1_Enter.cs" />
     <Compile Include="Assets\Scripts\Movement_2Way.cs" />
@@ -70,7 +71,9 @@
     <Compile Include="Assets\Scripts\Mouse_Start.cs" />
     <Compile Include="Assets\Scripts\Drag_and_Drop_key.cs" />
     <Compile Include="Assets\Scripts\POI.cs" />
+    <Compile Include="Assets\Scripts\Quit_Game.cs" />
     <Compile Include="Assets\Scripts\Puzzle_Complete.cs" />
+    <Compile Include="Assets\Scripts\Canvas_Switch.cs" />
     <Compile Include="Assets\Scripts\Panel_Victory.cs" />
     <Compile Include="Assets\Scripts\Movement 8_Way.cs" />
     <Compile Include="Assets\Scripts\Dialog_Scripts\DialogueTrigger.cs" />

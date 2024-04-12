@@ -422,7 +422,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -434,7 +434,7 @@
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 243,
-      "PayloadLength": 43215,
+      "PayloadLength": 43242,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -446,9 +446,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 43552,
+      "PayloadOffset": 43579,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.rsp2"
@@ -2037,7 +2037,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 43711,
+      "PayloadOffset": 43738,
       "PayloadLength": 5794,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2202,9 +2202,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 49610,
+      "PayloadOffset": 49637,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2215,8 +2215,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 49738,
-      "PayloadLength": 36893,
+      "PayloadOffset": 49765,
+      "PayloadLength": 36920,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -2228,9 +2228,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 86717,
+      "PayloadOffset": 86771,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.rsp2"
@@ -2584,7 +2584,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 86868,
+      "PayloadOffset": 86922,
       "PayloadLength": 5982,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2753,9 +2753,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.PixelPerfect.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.PixelPerfect.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 92962,
+      "PayloadOffset": 93016,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.PixelPerfect.UnityAdditionalFile.txt"
@@ -2766,8 +2766,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.PixelPerfect.rsp",
       "DisplayName": "Writing Unity.2D.PixelPerfect.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 93097,
-      "PayloadLength": 30048,
+      "PayloadOffset": 93151,
+      "PayloadLength": 30075,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -2779,9 +2779,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.PixelPerfect.rsp2",
       "DisplayName": "Writing Unity.2D.PixelPerfect.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 123238,
+      "PayloadOffset": 123319,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.PixelPerfect.rsp2"
@@ -3044,7 +3044,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.PixelPerfect.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.PixelPerfect.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 123396,
+      "PayloadOffset": 123477,
       "PayloadLength": 6058,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3215,9 +3215,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Tilemap.Extras.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.Tilemap.Extras.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 129568,
+      "PayloadOffset": 129649,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Tilemap.Extras.UnityAdditionalFile.txt"
@@ -3228,8 +3228,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Tilemap.Extras.rsp",
       "DisplayName": "Writing Unity.2D.Tilemap.Extras.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 129705,
-      "PayloadLength": 30442,
+      "PayloadOffset": 129786,
+      "PayloadLength": 30469,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -3241,9 +3241,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Tilemap.Extras.rsp2",
       "DisplayName": "Writing Unity.2D.Tilemap.Extras.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 160242,
+      "PayloadOffset": 160350,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Tilemap.Extras.rsp2"
@@ -3491,7 +3491,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Tilemap.Extras.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.Tilemap.Extras.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 160402,
+      "PayloadOffset": 160510,
       "PayloadLength": 6058,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3662,9 +3662,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Burst.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 166562,
+      "PayloadOffset": 166670,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.UnityAdditionalFile.txt"
@@ -3675,8 +3675,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.rsp",
       "DisplayName": "Writing Unity.Burst.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 166687,
-      "PayloadLength": 33585,
+      "PayloadOffset": 166795,
+      "PayloadLength": 33612,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -3688,9 +3688,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.rsp2",
       "DisplayName": "Writing Unity.Burst.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 200355,
+      "PayloadOffset": 200490,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.rsp2"
@@ -3997,7 +3997,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Burst.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 200503,
+      "PayloadOffset": 200638,
       "PayloadLength": 5946,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4166,9 +4166,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.InternalAPIEngineBridge.001.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.InternalAPIEngineBridge.001.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 206573,
+      "PayloadOffset": 206708,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.InternalAPIEngineBridge.001.UnityAdditionalFile.txt"
@@ -4179,8 +4179,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.InternalAPIEngineBridge.001.rsp",
       "DisplayName": "Writing Unity.InternalAPIEngineBridge.001.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 206720,
-      "PayloadLength": 30013,
+      "PayloadOffset": 206855,
+      "PayloadLength": 30040,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -4192,9 +4192,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.InternalAPIEngineBridge.001.rsp2",
       "DisplayName": "Writing Unity.InternalAPIEngineBridge.001.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 236838,
+      "PayloadOffset": 237000,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.InternalAPIEngineBridge.001.rsp2"
@@ -4438,7 +4438,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.InternalAPIEngineBridge.001.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.InternalAPIEngineBridge.001.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 237008,
+      "PayloadOffset": 237170,
       "PayloadLength": 6058,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4609,9 +4609,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Mathematics.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Mathematics.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 243174,
+      "PayloadOffset": 243336,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Mathematics.UnityAdditionalFile.txt"
@@ -4622,8 +4622,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Mathematics.rsp",
       "DisplayName": "Writing Unity.Mathematics.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 243305,
-      "PayloadLength": 37362,
+      "PayloadOffset": 243467,
+      "PayloadLength": 37389,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -4635,9 +4635,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Mathematics.rsp2",
       "DisplayName": "Writing Unity.Mathematics.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 280756,
+      "PayloadOffset": 280945,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Mathematics.rsp2"
@@ -4967,7 +4967,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Mathematics.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Mathematics.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 280910,
+      "PayloadOffset": 281099,
       "PayloadLength": 6058,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5138,9 +5138,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 287076,
+      "PayloadOffset": 287265,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -5151,8 +5151,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 287207,
-      "PayloadLength": 34917,
+      "PayloadOffset": 287396,
+      "PayloadLength": 34944,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -5164,9 +5164,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 322213,
+      "PayloadOffset": 322429,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.rsp2"
@@ -5466,7 +5466,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 322367,
+      "PayloadOffset": 322583,
       "PayloadLength": 6058,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5637,9 +5637,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 328530,
+      "PayloadOffset": 328746,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -5650,8 +5650,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 328658,
-      "PayloadLength": 36001,
+      "PayloadOffset": 328874,
+      "PayloadLength": 36028,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -5663,9 +5663,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 364745,
+      "PayloadOffset": 364988,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.rsp2"
@@ -5979,7 +5979,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 364896,
+      "PayloadOffset": 365139,
       "PayloadLength": 6058,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6150,9 +6150,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 371071,
+      "PayloadOffset": 371314,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -6163,8 +6163,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 371211,
-      "PayloadLength": 83604,
+      "PayloadOffset": 371454,
+      "PayloadLength": 83631,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -6176,9 +6176,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 454913,
+      "PayloadOffset": 455183,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.rsp2"
@@ -6846,7 +6846,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 455076,
+      "PayloadOffset": 455346,
       "PayloadLength": 6058,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7017,9 +7017,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Common.Runtime.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.Common.Runtime.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 461248,
+      "PayloadOffset": 461518,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Common.Runtime.UnityAdditionalFile.txt"
@@ -7030,8 +7030,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Common.Runtime.rsp",
       "DisplayName": "Writing Unity.2D.Common.Runtime.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 461385,
-      "PayloadLength": 30396,
+      "PayloadOffset": 461655,
+      "PayloadLength": 30423,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -7043,9 +7043,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Common.Runtime.rsp2",
       "DisplayName": "Writing Unity.2D.Common.Runtime.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 491876,
+      "PayloadOffset": 492173,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Common.Runtime.rsp2"
@@ -7314,7 +7314,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Common.Runtime.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.Common.Runtime.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 492036,
+      "PayloadOffset": 492333,
       "PayloadLength": 6137,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7487,9 +7487,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.IK.Runtime.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.IK.Runtime.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 498283,
+      "PayloadOffset": 498580,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.IK.Runtime.UnityAdditionalFile.txt"
@@ -7500,8 +7500,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.IK.Runtime.rsp",
       "DisplayName": "Writing Unity.2D.IK.Runtime.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 498416,
-      "PayloadLength": 30902,
+      "PayloadOffset": 498713,
+      "PayloadLength": 30929,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -7513,9 +7513,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.IK.Runtime.rsp2",
       "DisplayName": "Writing Unity.2D.IK.Runtime.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 529409,
+      "PayloadOffset": 529733,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.IK.Runtime.rsp2"
@@ -7790,7 +7790,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.IK.Runtime.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.IK.Runtime.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 529565,
+      "PayloadOffset": 529889,
       "PayloadLength": 6153,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7963,9 +7963,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Collections.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Collections.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 535826,
+      "PayloadOffset": 536150,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Collections.UnityAdditionalFile.txt"
@@ -7976,8 +7976,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Collections.rsp",
       "DisplayName": "Writing Unity.Collections.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 535957,
-      "PayloadLength": 34863,
+      "PayloadOffset": 536281,
+      "PayloadLength": 34890,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -7989,9 +7989,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Collections.rsp2",
       "DisplayName": "Writing Unity.Collections.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 570909,
+      "PayloadOffset": 571260,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.Collections.rsp2"
@@ -8310,7 +8310,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.Collections.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Collections.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 571063,
+      "PayloadOffset": 571414,
       "PayloadLength": 6210,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8485,9 +8485,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 577390,
+      "PayloadOffset": 577741,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -8498,8 +8498,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 577530,
-      "PayloadLength": 79133,
+      "PayloadOffset": 577881,
+      "PayloadLength": 79160,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -8511,9 +8511,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 656761,
+      "PayloadOffset": 657139,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.rsp2"
@@ -9176,7 +9176,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 656924,
+      "PayloadOffset": 657302,
       "PayloadLength": 6146,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9349,9 +9349,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Animation.Runtime.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.Animation.Runtime.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 663187,
+      "PayloadOffset": 663565,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Animation.Runtime.UnityAdditionalFile.txt"
@@ -9362,8 +9362,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Animation.Runtime.rsp",
       "DisplayName": "Writing Unity.2D.Animation.Runtime.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 663327,
-      "PayloadLength": 31656,
+      "PayloadOffset": 663705,
+      "PayloadLength": 31683,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -9375,9 +9375,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Animation.Runtime.rsp2",
       "DisplayName": "Writing Unity.2D.Animation.Runtime.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 695081,
+      "PayloadOffset": 695486,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Animation.Runtime.rsp2"
@@ -9683,7 +9683,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.Animation.Runtime.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.Animation.Runtime.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 695244,
+      "PayloadOffset": 695649,
       "PayloadLength": 6469,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9864,9 +9864,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.SpriteShape.Runtime.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.SpriteShape.Runtime.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 701832,
+      "PayloadOffset": 702237,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.SpriteShape.Runtime.UnityAdditionalFile.txt"
@@ -9877,8 +9877,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.SpriteShape.Runtime.rsp",
       "DisplayName": "Writing Unity.2D.SpriteShape.Runtime.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 701974,
-      "PayloadLength": 31667,
+      "PayloadOffset": 702379,
+      "PayloadLength": 31694,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -9890,9 +9890,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.SpriteShape.Runtime.rsp2",
       "DisplayName": "Writing Unity.2D.SpriteShape.Runtime.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 733741,
+      "PayloadOffset": 734173,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.2D.SpriteShape.Runtime.rsp2"
@@ -10158,7 +10158,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.2D.SpriteShape.Runtime.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.SpriteShape.Runtime.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 733906,
+      "PayloadOffset": 734338,
       "PayloadLength": 6295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10335,9 +10335,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 740319,
+      "PayloadOffset": 740751,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -10348,8 +10348,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 740460,
-      "PayloadLength": 33137,
+      "PayloadOffset": 740892,
+      "PayloadLength": 33164,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -10361,9 +10361,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 773696,
+      "PayloadOffset": 774155,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.rsp2"
@@ -10657,7 +10657,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 773860,
+      "PayloadOffset": 774319,
       "PayloadLength": 6234,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10832,9 +10832,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 780200,
+      "PayloadOffset": 780659,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -10845,8 +10845,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 780329,
-      "PayloadLength": 31398,
+      "PayloadOffset": 780788,
+      "PayloadLength": 31523,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -10858,7 +10858,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 811814,
+      "PayloadOffset": 812398,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -11079,6 +11079,7 @@
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.ref.dll",
         "Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.ref.dll",
         "Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.ref.dll",
+        "Assets/Scripts/Canvas_Switch.cs",
         "Assets/Scripts/Collect.cs",
         "Assets/Scripts/Dialog_Scripts/DialogueTrigger.cs",
         "Assets/Scripts/Dialog_Scripts/Grave_Dialog.cs",
@@ -11092,7 +11093,9 @@
         "Assets/Scripts/POI.cs",
         "Assets/Scripts/Puzzle_Complete.cs",
         "Assets/Scripts/Puzzle_Start.cs",
+        "Assets/Scripts/Quit_Game.cs",
         "Assets/Scripts/Reset.cs",
+        "Assets/Scripts/SceneStart.cs",
         "Assets/Scripts/Side1_Enter.cs",
         "Assets/Scripts/Switch.cs",
         "Assets/Scripts/Switch_comp.cs",
@@ -11293,7 +11296,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 811910,
+      "PayloadOffset": 812494,
       "PayloadLength": 7316,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11494,9 +11497,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 819354,
+      "PayloadOffset": 819938,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -11507,8 +11510,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 819505,
-      "PayloadLength": 42435,
+      "PayloadOffset": 820089,
+      "PayloadLength": 42462,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -11520,9 +11523,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 862049,
+      "PayloadOffset": 862660,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.TestRunner.rsp2"
@@ -13166,7 +13169,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 862223,
+      "PayloadOffset": 862834,
       "PayloadLength": 7355,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13367,9 +13370,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 869698,
+      "PayloadOffset": 870309,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -13380,8 +13383,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 869841,
-      "PayloadLength": 36969,
+      "PayloadOffset": 870452,
+      "PayloadLength": 36996,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -13393,9 +13396,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 906911,
+      "PayloadOffset": 907549,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.UI.rsp2"
@@ -13819,7 +13822,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 907077,
+      "PayloadOffset": 907715,
       "PayloadLength": 7987,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14034,9 +14037,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 915192,
+      "PayloadOffset": 915830,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -14047,8 +14050,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 915343,
-      "PayloadLength": 48515,
+      "PayloadOffset": 915981,
+      "PayloadLength": 48542,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -14060,9 +14063,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 963967,
+      "PayloadOffset": 964632,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.TestRunner.rsp2"
@@ -14520,7 +14523,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 964141,
+      "PayloadOffset": 964806,
       "PayloadLength": 7521,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14725,9 +14728,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 971782,
+      "PayloadOffset": 972447,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -14738,8 +14741,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 971925,
-      "PayloadLength": 34064,
+      "PayloadOffset": 972590,
+      "PayloadLength": 34091,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -14751,9 +14754,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1006090,
+      "PayloadOffset": 1006782,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.UI.rsp2"
@@ -15101,7 +15104,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1006256,
+      "PayloadOffset": 1006948,
       "PayloadLength": 8313,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15324,9 +15327,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Burst.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1014686,
+      "PayloadOffset": 1015378,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.UnityAdditionalFile.txt"
@@ -15337,8 +15340,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.rsp",
       "DisplayName": "Writing Unity.Burst.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1014826,
-      "PayloadLength": 32899,
+      "PayloadOffset": 1015518,
+      "PayloadLength": 32926,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -15350,9 +15353,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.rsp2",
       "DisplayName": "Writing Unity.Burst.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1047823,
+      "PayloadOffset": 1048542,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.rsp2"
@@ -15682,7 +15685,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Burst.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1047986,
+      "PayloadOffset": 1048705,
       "PayloadLength": 7583,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15889,9 +15892,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.CodeGen.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Burst.CodeGen.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1055694,
+      "PayloadOffset": 1056413,
       "PayloadLength": 43,
-      "PayloadDebugContentSnippet": "C:\\Unity\\Shade_Ghost\\Dissertat",
+      "PayloadDebugContentSnippet": "D:\\Unity\\Shade_Ghost\\Dissertat",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.CodeGen.UnityAdditionalFile.txt"
@@ -15902,8 +15905,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.CodeGen.rsp",
       "DisplayName": "Writing Unity.Burst.CodeGen.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1055842,
-      "PayloadLength": 30822,
+      "PayloadOffset": 1056561,
+      "PayloadLength": 30849,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -15915,9 +15918,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.CodeGen.rsp2",
       "DisplayName": "Writing Unity.Burst.CodeGen.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1086770,
+      "PayloadOffset": 1087516,
       "PayloadLength": 56,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Unity\\Shade_Ghost",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Unity\\Shade_Ghost",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.CodeGen.rsp2"
@@ -16284,7 +16287,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Burst.CodeGen.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Burst.CodeGen.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1086941,
+      "PayloadOffset": 1087687,
       "PayloadLength": 7914,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16499,9 +16502,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4747638433968585886.rsp",
       "DisplayName": "Writing 4747638433968585886.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1094944,
+      "PayloadOffset": 1095690,
       "PayloadLength": 41007,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4747638433968585886.rsp"
@@ -16894,9 +16897,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/7613050566626658858.rsp",
       "DisplayName": "Writing 7613050566626658858.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1136040,
-      "PayloadLength": 27624,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1136786,
+      "PayloadLength": 27644,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/7613050566626658858.rsp"
@@ -17848,9 +17851,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14860638655416492113.rsp",
       "DisplayName": "Writing 14860638655416492113.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1163754,
-      "PayloadLength": 27591,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1164520,
+      "PayloadLength": 27611,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/14860638655416492113.rsp"
@@ -18804,9 +18807,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/16173601400039901189.rsp",
       "DisplayName": "Writing 16173601400039901189.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1191435,
-      "PayloadLength": 27593,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1192221,
+      "PayloadLength": 27613,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16173601400039901189.rsp"
@@ -19760,9 +19763,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/18345886388837496740.rsp",
       "DisplayName": "Writing 18345886388837496740.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1219118,
-      "PayloadLength": 27376,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1219924,
+      "PayloadLength": 27396,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/18345886388837496740.rsp"
@@ -20717,9 +20720,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4320045419077559961.rsp",
       "DisplayName": "Writing 4320045419077559961.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1246583,
-      "PayloadLength": 27603,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1247409,
+      "PayloadLength": 27623,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4320045419077559961.rsp"
@@ -21673,9 +21676,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/16535624540582444286.rsp",
       "DisplayName": "Writing 16535624540582444286.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1274276,
-      "PayloadLength": 27587,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1275122,
+      "PayloadLength": 27607,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16535624540582444286.rsp"
@@ -22629,9 +22632,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/16165950076103467137.rsp",
       "DisplayName": "Writing 16165950076103467137.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1301953,
-      "PayloadLength": 27587,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1302819,
+      "PayloadLength": 27607,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16165950076103467137.rsp"
@@ -23585,9 +23588,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2825474603313457067.rsp",
       "DisplayName": "Writing 2825474603313457067.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1329629,
-      "PayloadLength": 27609,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1330515,
+      "PayloadLength": 27629,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/2825474603313457067.rsp"
@@ -24541,9 +24544,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9086351026866434582.rsp",
       "DisplayName": "Writing 9086351026866434582.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1357327,
-      "PayloadLength": 27673,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1358233,
+      "PayloadLength": 27693,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/9086351026866434582.rsp"
@@ -25497,9 +25500,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/8777404427811830579.rsp",
       "DisplayName": "Writing 8777404427811830579.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1385089,
-      "PayloadLength": 27652,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1386015,
+      "PayloadLength": 27672,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/8777404427811830579.rsp"
@@ -26455,9 +26458,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/17082924578689188940.rsp",
       "DisplayName": "Writing 17082924578689188940.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1412831,
-      "PayloadLength": 27664,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1413777,
+      "PayloadLength": 27684,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/17082924578689188940.rsp"
@@ -27413,9 +27416,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/12777052554256862767.rsp",
       "DisplayName": "Writing 12777052554256862767.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1440585,
-      "PayloadLength": 27699,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1441551,
+      "PayloadLength": 27719,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/12777052554256862767.rsp"
@@ -28374,9 +28377,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3763678773947237655.rsp",
       "DisplayName": "Writing 3763678773947237655.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1468373,
-      "PayloadLength": 27792,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1469359,
+      "PayloadLength": 27812,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/3763678773947237655.rsp"
@@ -29332,9 +29335,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10447189825581068250.rsp",
       "DisplayName": "Writing 10447189825581068250.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1496255,
-      "PayloadLength": 27907,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1497261,
+      "PayloadLength": 27927,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/10447189825581068250.rsp"
@@ -30299,9 +30302,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/16950770319394948706.rsp",
       "DisplayName": "Writing 16950770319394948706.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1524252,
-      "PayloadLength": 27802,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1525278,
+      "PayloadLength": 27822,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16950770319394948706.rsp"
@@ -31262,9 +31265,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/11269469109637777866.rsp",
       "DisplayName": "Writing 11269469109637777866.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1552144,
-      "PayloadLength": 27733,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1553190,
+      "PayloadLength": 27753,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/11269469109637777866.rsp"
@@ -32222,9 +32225,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/8031029260432620717.rsp",
       "DisplayName": "Writing 8031029260432620717.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1579966,
-      "PayloadLength": 28543,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-cf037acd41998a0d30",
+      "PayloadOffset": 1581032,
+      "PayloadLength": 28563,
+      "PayloadDebugContentSnippet": "\"unity-ilpp-6349063209a000bb7c",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/8031029260432620717.rsp"
@@ -33748,7 +33751,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"C:/Program Files/Unity 2022.2.9f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity 2022.2.9f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.burst@1.8.3/Unity.Burst.Unsafe.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/Managed/UnityEngine\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/Extensions/2.0.0\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/ref/2.1.0\" -s=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies\" -s=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.burst@1.8.3\" -s=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport\" -s=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity 2022.2.9f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity 2022.2.9f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.burst@1.8.3/Unity.Burst.Unsafe.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/Managed/UnityEngine\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/Extensions/2.0.0\" -s=\"C:/Program Files/Unity 2022.2.9f1/Editor/Data/NetStandard/ref/2.1.0\" -s=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/PlayerScriptAssemblies\" -s=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.burst@1.8.3\" -s=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport\" -s=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity 2022.2.9f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity 2022.2.9f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -34046,6 +34049,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aP.dag.json",
-  "PayloadsFile": "C:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/1900b0aP.dag.payloads",
+  "PayloadsFile": "D:/Unity/Shade_Ghost/Dissertation Artifiact/Library/Bee/1900b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }

@@ -10,6 +10,9 @@ public class Panel_Victory : MonoBehaviour
     public GameObject Key2;
     public GameObject Key3;
     public GameObject Key4;
+
+    public GameObject Win;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +31,13 @@ public class Panel_Victory : MonoBehaviour
         {
             complete = false;
         }
+
+        if (complete)
+        {
+            Win.SetActive(true);
+
+        }
+
 
         if (complete && Input.GetKeyUp(KeyCode.Return))
         {

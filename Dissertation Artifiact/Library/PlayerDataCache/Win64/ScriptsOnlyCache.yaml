@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Canvas_Switch
     - Collect
     - DialogueTrigger
     - Drag_and_Drop
@@ -14,7 +15,9 @@ ScriptsOnlyBuild:
     - Panel_Victory
     - Puzzle_Complete
     - Puzzle_Start
+    - Quit_Game
     - Reset
+    - SceneStart
     - Side1_Enter
     - Switch
     - Switch_comp
@@ -55,8 +58,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -65,8 +70,10 @@ ScriptsOnlyBuild:
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
   serializedClasses:
     Unity.TextMeshPro:
     - TMPro.FaceInfo_Legacy
@@ -84,16 +91,78 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Style
     - TMPro.VertexGradient
     UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
     - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
     UnityEngine.TextCoreFontEngineModule:
     - UnityEngine.TextCore.FaceInfo
     - UnityEngine.TextCore.Glyph
     - UnityEngine.TextCore.GlyphMetrics
     - UnityEngine.TextCore.GlyphRect
     UnityEngine.UI:
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.Button/ButtonClickedEvent
+    - UnityEngine.UI.ColorBlock
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
-  methodsToPreserve: []
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.SpriteState
+  methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: Canvas_Switch
+    methodName: SwitchCanavs
+  - assembly: Assembly-CSharp
+    fullTypeName: SceneStart
+    methodName: LoadSceneOnClick
+  - assembly: Assembly-CSharp
+    fullTypeName: Canvas_Switch
+    methodName: SwitchCanavs
+  - assembly: Assembly-CSharp
+    fullTypeName: Quit_Game
+    methodName: Quit
   sceneClasses:
+    Assets/Scenes/Afterword.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 2844}
+    - Class: 114
+      Script: {instanceID: 3090}
+    - Class: 114
+      Script: {instanceID: 5904}
+    - Class: 114
+      Script: {instanceID: 6604}
+    - Class: 114
+      Script: {instanceID: 6810}
+    - Class: 114
+      Script: {instanceID: 7206}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes/End.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -167,14 +236,28 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 2844}
+    - Class: 114
+      Script: {instanceID: 3090}
+    - Class: 114
       Script: {instanceID: 4614}
     - Class: 114
       Script: {instanceID: 4726}
+    - Class: 114
+      Script: {instanceID: 5904}
+    - Class: 114
+      Script: {instanceID: 6604}
+    - Class: 114
+      Script: {instanceID: 6810}
+    - Class: 114
+      Script: {instanceID: 7206}
     - Class: 114
       Script: {instanceID: 7744}
     - Class: 114
       Script: {instanceID: 8758}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -183,6 +266,12 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/Grave_Hub.unity:
     - Class: 1
@@ -302,6 +391,69 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
+    Assets/Scenes/Main_Menu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1618}
+    - Class: 114
+      Script: {instanceID: 2324}
+    - Class: 114
+      Script: {instanceID: 2844}
+    - Class: 114
+      Script: {instanceID: 3090}
+    - Class: 114
+      Script: {instanceID: 3424}
+    - Class: 114
+      Script: {instanceID: 4690}
+    - Class: 114
+      Script: {instanceID: 5008}
+    - Class: 114
+      Script: {instanceID: 5904}
+    - Class: 114
+      Script: {instanceID: 6604}
+    - Class: 114
+      Script: {instanceID: 6810}
+    - Class: 114
+      Script: {instanceID: 7206}
+    - Class: 114
+      Script: {instanceID: 25780}
+    - Class: 114
+      Script: {instanceID: 27654}
+    - Class: 114
+      Script: {instanceID: 28120}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes/Panel_Puzzle.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -324,10 +476,24 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2684}
     - Class: 114
+      Script: {instanceID: 2844}
+    - Class: 114
+      Script: {instanceID: 3090}
+    - Class: 114
       Script: {instanceID: 5722}
+    - Class: 114
+      Script: {instanceID: 5904}
+    - Class: 114
+      Script: {instanceID: 6604}
+    - Class: 114
+      Script: {instanceID: 6810}
+    - Class: 114
+      Script: {instanceID: 7206}
     - Class: 114
       Script: {instanceID: 7834}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -336,6 +502,12 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/SampleScene.unity:
     - Class: 1
@@ -349,8 +521,6 @@ ScriptsOnlyBuild:
     - Class: 28
       Script: {instanceID: 0}
     - Class: 48
-      Script: {instanceID: 0}
-    - Class: 49
       Script: {instanceID: 0}
     - Class: 50
       Script: {instanceID: 0}
@@ -369,15 +539,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 632}
     - Class: 114
-      Script: {instanceID: 2324}
-    - Class: 114
       Script: {instanceID: 2844}
     - Class: 114
       Script: {instanceID: 3090}
-    - Class: 114
-      Script: {instanceID: 4690}
-    - Class: 114
-      Script: {instanceID: 5008}
     - Class: 114
       Script: {instanceID: 5278}
     - Class: 114
@@ -730,7 +894,7 @@ ScriptsOnlyBuild:
     className: Collect
   - hash:
       serializedVersion: 2
-      Hash: b8de5e155b0cd0ae0409183ff463c563
+      Hash: 2e8d95af346ad11b52563dd492302c77
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: Panel_Victory
@@ -1054,7 +1218,7 @@ ScriptsOnlyBuild:
     className: UnityOnJointBreak2DMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 4c75493cb2ead431841e7105fcb71a43
+      Hash: 68ce87dc2881eb247951ec1eb9d7c888
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: Puzzle_Complete
@@ -1688,8 +1852,27 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 88339a1fb717ca3af6c693ff7049f8be
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SceneStart
+  - hash:
+      serializedVersion: 2
+      Hash: e992dd459f238bd7825d30d32342beb5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Canvas_Switch
+  - hash:
+      serializedVersion: 2
+      Hash: 751e5bae2a317288c2ab58d66687092b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Quit_Game
   platform: 19
   scenePathNames:
+  - Assets/Scenes/Main_Menu.unity
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/Gate_Puzzle.unity
   - Assets/Scenes/Grave_Hub.unity
@@ -1699,4 +1882,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Latch_Puzzle.unity
   - Assets/Scenes/Panel_Puzzle.unity
   - Assets/Scenes/End.unity
-  playerPath: C:/Unity/Shade_Ghost/Dissertation Artifiact.exe
+  - Assets/Scenes/Afterword.unity
+  playerPath: D:/Unity/Dissertation Artifiact.exe
