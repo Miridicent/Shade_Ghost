@@ -3199,9 +3199,10 @@ GameObject:
   - component: {fileID: 544902589}
   - component: {fileID: 544902588}
   - component: {fileID: 544902587}
+  - component: {fileID: 544902590}
   m_Layer: 0
   m_Name: Venge_Ghost_0 (1)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3287,13 +3288,58 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 544902586}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.54, y: 16.8, z: 0}
+  m_LocalPosition: {x: 10.62, y: 5.38, z: 0}
   m_LocalScale: {x: 1.8198, y: 1.8198, z: 1.8198}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &544902590
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544902586}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.15, y: 2.2}
+    newSize: {x: 1.15, y: 2.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.15, y: 2.2}
+  m_EdgeRadius: 0
 --- !u!1 &547774130
 GameObject:
   m_ObjectHideFlags: 0
@@ -3305,9 +3351,10 @@ GameObject:
   - component: {fileID: 547774133}
   - component: {fileID: 547774132}
   - component: {fileID: 547774131}
+  - component: {fileID: 547774134}
   m_Layer: 0
   m_Name: Venge_Ghost_0
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3393,12 +3440,88 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 547774130}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.1614, y: 1.2231, z: 0}
+  m_LocalPosition: {x: 15.76, y: 13.47, z: 0}
   m_LocalScale: {x: 1.8198, y: 1.8198, z: 1.8198}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &547774134
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 547774130}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.15, y: 2.2}
+    newSize: {x: 1.15, y: 2.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.15, y: 2.2}
+  m_EdgeRadius: 0
+--- !u!1 &567717565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 567717566}
+  m_Layer: 0
+  m_Name: GameObject (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &567717566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 567717565}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -20.82, y: 0.28, z: -0.5249432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &625705586 stripped
 Transform:
@@ -3598,6 +3721,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObject: {fileID: 1710966858}
+--- !u!114 &1335524053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335524045}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b651fc0d764c205439560dddbab3988e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLocation: {fileID: 567717566}
 --- !u!1 &1381133432
 GameObject:
   m_ObjectHideFlags: 0
@@ -3703,6 +3839,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Shade_Ghost
       objectReference: {fileID: 0}
+    - target: {fileID: 3680970896924820838, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
+      propertyPath: m_Size.x
+      value: 13.274115
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680970896924820838, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
+      propertyPath: m_Size.y
+      value: 23.093449
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680970896924820838, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.041970253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3680970896924820838, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.990541
+      objectReference: {fileID: 0}
     - target: {fileID: 4283703854041684788, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -3769,6 +3921,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4283703854041684788, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1381133435}
+    - targetCorrespondingSourceObject: {fileID: 4283703854041684788, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1710966860}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 107378301121111526, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
       insertIndex: 3
@@ -3776,6 +3931,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 107378301121111526, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1335524051}
+    - targetCorrespondingSourceObject: {fileID: 107378301121111526, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1335524053}
   m_SourcePrefab: {fileID: 100100000, guid: d8a26058b894ee646b437936c5092fa5, type: 3}
 --- !u!1 &1506067311
 GameObject:
@@ -3788,9 +3946,10 @@ GameObject:
   - component: {fileID: 1506067314}
   - component: {fileID: 1506067313}
   - component: {fileID: 1506067312}
+  - component: {fileID: 1506067315}
   m_Layer: 0
   m_Name: Venge_Ghost_0 (2)
-  m_TagString: Untagged
+  m_TagString: Spike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3859,7 +4018,7 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_Sprite: {fileID: 1224343644, guid: f75711fe9aeec7c4196ea1884e63c922, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.15, y: 2.2}
@@ -3883,6 +4042,51 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1506067315
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1506067311}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.15, y: 2.2}
+    newSize: {x: 1.15, y: 2.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.15, y: 2.2}
+  m_EdgeRadius: 0
 --- !u!1 &1578452266
 GameObject:
   m_ObjectHideFlags: 0
@@ -4188,13 +4392,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1710966858}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -20.56, y: 3.7, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.3527443, y: 17.975151, z: 0}
+  m_LocalScale: {x: 6.3572793, y: 6.3572793, z: 6.3572793}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_Father: {fileID: 625705586}
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1789668687
 GameObject:

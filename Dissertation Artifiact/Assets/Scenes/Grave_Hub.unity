@@ -386,7 +386,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -295.80005, y: -180}
+  m_AnchoredPosition: {x: -295.3, y: -265.2}
   m_SizeDelta: {x: 347.7222, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &172829174 stripped
@@ -11735,7 +11735,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -295.80005, y: -180}
+  m_AnchoredPosition: {x: -295.3, y: -265.2}
   m_SizeDelta: {x: 347.7222, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &659605203
@@ -12062,6 +12062,7 @@ GameObject:
   - component: {fileID: 1042473263}
   - component: {fileID: 1042473262}
   - component: {fileID: 1042473265}
+  - component: {fileID: 1042473266}
   m_Layer: 0
   m_Name: NPC_Ghost 2_0
   m_TagString: Untagged
@@ -12171,6 +12172,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textBox: {fileID: 380914127}
   TMP: {fileID: 1852817714}
+--- !u!61 &1042473266
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1042473261}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.19, y: 1.76}
+    newSize: {x: 1.19, y: 1.76}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.19, y: 1.76}
+  m_EdgeRadius: 0
 --- !u!1 &1148729774
 GameObject:
   m_ObjectHideFlags: 0
@@ -12267,6 +12313,7 @@ GameObject:
   - component: {fileID: 1155900975}
   - component: {fileID: 1155900974}
   - component: {fileID: 1155900977}
+  - component: {fileID: 1155900978}
   m_Layer: 0
   m_Name: Npc_Ghost_0
   m_TagString: Untagged
@@ -12376,6 +12423,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textBox: {fileID: 380914127}
   TMP: {fileID: 659605203}
+--- !u!61 &1155900978
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1155900973}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.86, y: 1.36}
+    newSize: {x: 0.86, y: 1.36}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.86, y: 1.36}
+  m_EdgeRadius: 0
 --- !u!1 &1376732577
 GameObject:
   m_ObjectHideFlags: 0
@@ -14389,7 +14481,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -285.7, y: -209.4}
+  m_AnchoredPosition: {x: -285.19995, y: -294.6}
   m_SizeDelta: {x: 347.7222, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1802935906
@@ -14789,7 +14881,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -295.80005, y: -180}
+  m_AnchoredPosition: {x: -295.3, y: -265.2}
   m_SizeDelta: {x: 347.7222, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1936137095

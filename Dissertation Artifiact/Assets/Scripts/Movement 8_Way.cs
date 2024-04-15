@@ -27,13 +27,13 @@ public class Movement8_Way : MonoBehaviour
         speedX = Input.GetAxisRaw("Horizontal") * movSpeed;
         speedY = Input.GetAxisRaw("Vertical") * movSpeed;
         rb.velocity = new Vector3(speedX, speedY);
-        
+
         // Flips the sprite depending on the direction being moved 
-        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyUp(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyUp(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.LeftArrow))
         {
             _sprite.flipX = true;
         }
-        else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyUp(KeyCode.D))
+        else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyUp(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyUp(KeyCode.RightArrow))
         {
             _sprite.flipX = false;
         }
