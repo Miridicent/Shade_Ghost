@@ -11,7 +11,8 @@ public class Puzzle_Complete : MonoBehaviour
     public GameObject Key3;
 
     public GameObject Win;
-    
+
+   
 
     // Start is called before the first frame update
     void Start()
@@ -35,6 +36,7 @@ public class Puzzle_Complete : MonoBehaviour
         if (complete)
         {
             Win.SetActive(true);
+            
             
         }
 

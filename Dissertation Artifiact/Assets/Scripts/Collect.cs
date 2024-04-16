@@ -9,6 +9,7 @@ public class Collect : MonoBehaviour
     public int unlock = 0;
     GameObject collidedObject;
     public GameObject Gate;
+    Pendent_holder pendent_holder;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -46,6 +47,7 @@ public class Collect : MonoBehaviour
         if (unlock == 3 && collidedObject.gameObject.CompareTag("Gate") && IsinRange)
         {
             Gate.SetActive(false);
+            Pendent_holder.Pendent++;
         }
     }
 }

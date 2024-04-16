@@ -13,6 +13,8 @@ public class Panel_Victory : MonoBehaviour
 
     public GameObject Win;
 
+    Pendent_holder pendent_holder;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,7 +37,7 @@ public class Panel_Victory : MonoBehaviour
         if (complete)
         {
             Win.SetActive(true);
-
+            Pendent_holder.Pendent++;
         }
 
 
