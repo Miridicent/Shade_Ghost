@@ -10,11 +10,14 @@ public class Final_Gate : MonoBehaviour
    
     public GameObject Gate;
     bool IsinRange;
+    public AudioClip clip;
+    public AudioSource source;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        source = GetComponent<AudioSource>();
+        clip = GetComponent<AudioClip>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -40,6 +43,7 @@ public class Final_Gate : MonoBehaviour
         if (Pendent_holder.Pendent > 3 && IsinRange)
         {
             Gate.SetActive(false);
+            source.Play();
             Pendent_holder.Pendent++;
         }
     }

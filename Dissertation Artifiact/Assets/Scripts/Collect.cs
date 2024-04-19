@@ -10,6 +10,8 @@ public class Collect : MonoBehaviour
     GameObject collidedObject;
     public GameObject Gate;
     Pendent_holder pendent_holder;
+    public AudioClip clip;
+    public AudioSource source;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -30,7 +32,8 @@ public class Collect : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        source = GetComponent<AudioSource>();
+        clip = GetComponent<AudioClip>();
     }
 
     // Update is called once per frame
@@ -42,6 +45,7 @@ public class Collect : MonoBehaviour
             unlock++;
             // Deactivate the collected fragment
             collidedObject.gameObject.SetActive(false);
+            source.Play();
         }
 
         if (unlock == 3 && collidedObject.gameObject.CompareTag("Gate") && IsinRange)
