@@ -23,6 +23,7 @@ public class Puzzle_Complete : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    //When the condiditions are met then complete is true and the puzzle is complete 
         if (!Key1.activeSelf && !Key2.activeSelf && !Key3.activeSelf)
         {
             complete = true;
@@ -39,7 +40,7 @@ public class Puzzle_Complete : MonoBehaviour
             
             
         }
-
+        // loads the scene 
         if (complete && Input.GetKeyUp(KeyCode.Return))
         {
             SceneManager.LoadScene("Grave_Hub");
