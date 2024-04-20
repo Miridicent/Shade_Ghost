@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// Player switches scenes upon entering the trigger of the object this script is assinged to
 public class Side1_Enter : MonoBehaviour
 {
     public string sceneManager;
