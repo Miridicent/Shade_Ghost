@@ -17,6 +17,7 @@ public class Movement_2Way : MonoBehaviour
     
     private void Start()
     {
+        // Gets the Rigidbody and Sprite renderer components
         _rb = GetComponent<Rigidbody2D>();
         _sprite = GetComponent<SpriteRenderer>();
     }
