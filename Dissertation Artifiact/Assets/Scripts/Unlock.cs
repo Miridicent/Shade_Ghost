@@ -23,9 +23,10 @@ public class Unlock : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
+    // compares if it's the right key
         if (other.CompareTag(targetTag))
         {
-            // Perform actions when the specified object enters the trigger
+            // if the key overlaps the lock collider then isInRange becomes true 
             Debug.Log("Trigger entered by object with tag: " + targetTag);
             isInRange = true;
         }
@@ -36,6 +37,7 @@ public class Unlock : MonoBehaviour
 
     }
 
+    // If is in range is true and the mouse is let go then the lock is unlocked and the key becomes inactive
     private void Update()
     {
         if (isInRange && Input.GetMouseButtonUp(0))
