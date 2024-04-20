@@ -8,7 +8,7 @@ public class SceneStart : MonoBehaviour
     public string scene;
 
     
-    // Update is called once per frame
+    //Loads the secene specified in the inspector upon clicking the button
     public void LoadSceneOnClick()
     {
         SceneManager.LoadScene(scene);
