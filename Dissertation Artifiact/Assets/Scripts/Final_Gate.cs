@@ -4,6 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using static Unity.Collections.AllocatorManager;
 
+// this workes similar to the collect script but without the collecting keyfragments part, the variable used is created in the pendent_holder script 
 public class Final_Gate : MonoBehaviour
 {
     Pendent_holder holder;
