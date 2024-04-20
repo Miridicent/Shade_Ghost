@@ -12,6 +12,8 @@ public class Puzzle_Start : MonoBehaviour
     private bool isInRange = false;
     public string targetTag = "Player";
     // Start is called before the first frame update
+
+    //When the player enters the collider 
     private void OnTriggerStay2D(Collider2D collider)
     {
 
@@ -23,6 +25,7 @@ public class Puzzle_Start : MonoBehaviour
 
     }
 
+    //When the player exits the collider 
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -34,6 +37,7 @@ public class Puzzle_Start : MonoBehaviour
     
 
 // Update is called once per frame
+//When the conditions are met the game will load the puzzle scene
 void Update()
     {
         if (isInRange && Input.GetKeyDown(KeyCode.Return))
