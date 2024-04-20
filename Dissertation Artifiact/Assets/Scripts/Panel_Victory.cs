@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//When the right panels are pressed the game object keys will become inactive, when they are all inactive then the puzzle is complete 
 public class Panel_Victory : MonoBehaviour
 {
     bool complete;
