@@ -7,6 +7,7 @@ public class Reset : MonoBehaviour
    
     public Transform targetLocation;
 
+   // when the player touches something with the spike tag they will be sent back to the start
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Spike"))
