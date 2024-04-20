@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//When the pendent enters the end trigger then the latch puzzle is complete 
 public class Latch_Complete : MonoBehaviour
 {
     Pendent_holder Pendent_holder;
