@@ -47,7 +47,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.RandomBrush
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    - Packages.Rider.Editor.UnitTesting.SyncTestRunEventsHandler
     Unity.TextMeshPro:
     - TMPro.TMP_FontAsset
     - TMPro.TMP_Settings
@@ -68,11 +67,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
-    - TestRunner.Callbacks.WindowResultUpdaterDataHolder
-    - UnityEditor.TestRunner.TestLaunchers.RemotePlayerLogController
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
-    - UnityEditor.TestTools.TestRunner.RerunCallbackData
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.UI.dll:
@@ -127,6 +122,9 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: Quit_Game
     methodName: Quit
+  - assembly: Assembly-CSharp
+    fullTypeName: SceneStart
+    methodName: LoadSceneOnClick
   sceneClasses:
     Assets/Scenes/Afterword.unity:
     - Class: 1
@@ -203,7 +201,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5898}
     - Class: 114
-      Script: {instanceID: 9416}
+      Script: {instanceID: 9418}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -266,7 +264,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7756}
     - Class: 114
-      Script: {instanceID: 8770}
+      Script: {instanceID: 8772}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -341,9 +339,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6822}
     - Class: 114
-      Script: {instanceID: 8066}
+      Script: {instanceID: 8068}
     - Class: 114
-      Script: {instanceID: 9416}
+      Script: {instanceID: 9418}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -470,6 +468,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
     - Class: 222
@@ -585,11 +585,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7218}
     - Class: 114
-      Script: {instanceID: 8030}
+      Script: {instanceID: 8032}
     - Class: 114
-      Script: {instanceID: 8066}
+      Script: {instanceID: 8068}
     - Class: 114
-      Script: {instanceID: 9416}
+      Script: {instanceID: 9418}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -652,9 +652,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5954}
     - Class: 114
-      Script: {instanceID: 8030}
+      Script: {instanceID: 8032}
     - Class: 114
-      Script: {instanceID: 9416}
+      Script: {instanceID: 9418}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -709,9 +709,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5954}
     - Class: 114
-      Script: {instanceID: 8030}
+      Script: {instanceID: 8032}
     - Class: 114
-      Script: {instanceID: 9416}
+      Script: {instanceID: 9418}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -774,9 +774,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5954}
     - Class: 114
-      Script: {instanceID: 8030}
+      Script: {instanceID: 8032}
     - Class: 114
-      Script: {instanceID: 9416}
+      Script: {instanceID: 9418}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -794,6 +794,59 @@ ScriptsOnlyBuild:
     - Class: 483693784
       Script: {instanceID: 0}
     - Class: 1839735485
+      Script: {instanceID: 0}
+    Assets/Scenes/Story.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1618}
+    - Class: 114
+      Script: {instanceID: 2750}
+    - Class: 114
+      Script: {instanceID: 2850}
+    - Class: 114
+      Script: {instanceID: 3098}
+    - Class: 114
+      Script: {instanceID: 3432}
+    - Class: 114
+      Script: {instanceID: 5914}
+    - Class: 114
+      Script: {instanceID: 6616}
+    - Class: 114
+      Script: {instanceID: 6822}
+    - Class: 114
+      Script: {instanceID: 7218}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1933,6 +1986,7 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Main_Menu.unity
+  - Assets/Scenes/Story.unity
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/Gate_Puzzle.unity
   - Assets/Scenes/Grave_Hub.unity

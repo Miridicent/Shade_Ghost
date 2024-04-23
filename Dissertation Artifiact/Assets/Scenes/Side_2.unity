@@ -441,6 +441,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObject: {fileID: 1886416725}
+  clip: {fileID: 0}
+  source: {fileID: 0}
 --- !u!114 &935459393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -882,8 +884,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1759203819
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 298e74face45d004fbd92d805a6bdd64, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
